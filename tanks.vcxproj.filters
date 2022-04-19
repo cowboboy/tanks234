@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Map.cpp" />
+    <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="World.cpp" />
+    <ClCompile Include="Particle.cpp" />
+    <ClCompile Include="Emitter.cpp" />
+    <ClCompile Include="BulletController.cpp" />
+    <ClCompile Include="FPS.cpp" />
+    <ClCompile Include="Game1.cpp" />
+    <ClCompile Include="OBB.cpp" />
+    <ClCompile Include="Object.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="TreeObject.cpp" />
+    <ClCompile Include="Box.cpp" />
+    <ClCompile Include="Dot.cpp" />
+    <ClCompile Include="Hedgehog.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Config.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Bullet.h" />
+    <ClInclude Include="World.h" />
+    <ClInclude Include="Particle.h" />
+    <ClInclude Include="Emitter.h" />
+    <ClInclude Include="BulletController.h" />
+    <ClInclude Include="FPS.h" />
+    <ClInclude Include="Game1.h" />
+    <ClInclude Include="OBB.h" />
+    <ClInclude Include="Object.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="TreeObject.h" />
+    <ClInclude Include="Box.h" />
+    <ClInclude Include="Dot.h" />
+    <ClInclude Include="Hedgehog.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Particles">
+      <UniqueIdentifier>{9198d811-5a0a-4fd7-81a1-974e25632a9e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
